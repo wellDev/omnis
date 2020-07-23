@@ -18,6 +18,12 @@ $ git remote add origin https://github.com/ton-correa/omnis.git
 $ git push -u origin master
 ```
 
+.gitignore:
+
+```json
+node_modules
+```
+
 ## Devlopment tools:
 
 Run Script: Nodemon (Runs the code and update automatically)
